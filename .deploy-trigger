@@ -1,3 +1,3 @@
 custom-domain-validation
-source 3c71a524914e378d9479075b95d21417ab56d36e
-reason publish-domain-module-cache-fix
+source 4f394422beb9e079e25507db3672cd25b31c4fa8
+reason publish-domain-initialization-fix
