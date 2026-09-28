@@ -1,4 +1,4 @@
 custom-domain-validation
-source 681661a3630a62651263f64d2691ba754382041a
-version 2.6.82
-reason publish-domain-bootstrap-fix
+source b1e504dcf01282c8ca1ff6388f0a1087886c0bed
+version 2.6.83
+reason publish-acme-dcv-fix
