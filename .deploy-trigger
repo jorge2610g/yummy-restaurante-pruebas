@@ -1,3 +1,3 @@
 custom-domain-validation
-source 6a379668b528f089a5ce886e604c50819403be3a
-reason business-custom-domain-staging
+source fdba37ead3ceb5d98ca9cb00cc72adaa57e5bc66
+reason publish-custom-domain-timeout-fix
