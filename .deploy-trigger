@@ -1,11 +1,3 @@
-scalability-phase2 source=jorge2610g/yummy-restaurante staging=7bde42771498d46ab9d81f5fd3dcbbd9d12fd05d
-Sync staging Bolivia payments: 2026-09-26T16:42Z
-Rollback panel staging estable: 2026-09-26T16:45Z
-Publicar filtro Bolivia v2.6.78: 2026-09-26T16:53Z
-release-gate source=jorge2610g/yummy-restaurante staging=5c1cffeb88d2c498d10e17efaef2b173b5e8538c 2026-09-26T19:30Z
-protection-gate source-sha=6e2695b5b7337dfa5673d96bad85b7b140bd2684
-post-merge-sync source-sha=50923800b6b4e93a1f96e9e7b6ea9c3ff509e6fd
-final-guard-sync source-sha=c601fb50a20075e4f8edad62d196cd2b2fe18278
-route-fix-source=1c3e606a15c960cb60d3b282324b530bc6300ffd
-pwa-fix-source=8142a170cc919fd1fb90857865e356e0f54ddb24
-audit-sync-source=cadb2164d6b11031b74538141cebb01bcb9b8ade
+custom-domain-validation
+source 6a379668b528f089a5ce886e604c50819403be3a
+reason business-custom-domain-staging
