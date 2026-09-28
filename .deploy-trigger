@@ -1,4 +1,4 @@
 custom-domain-validation
-source 8142652af329ebd9bb90434e2b035c63e799431a
-version 2.6.81
-reason force-publish-staging-2.6.81
+source 681661a3630a62651263f64d2691ba754382041a
+version 2.6.82
+reason publish-domain-bootstrap-fix
