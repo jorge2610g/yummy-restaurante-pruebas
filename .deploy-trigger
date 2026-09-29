@@ -1,4 +1,4 @@
 custom-domain-validation
-source 2435e113c3ab5de765cd66fd574ad427cb8c2e0f
-version 2.6.84
-reason release-candidate-2.6.84
+source 087f3cf05c6719cbc39a6a8d1750237e609db48e
+version 2.6.86
+reason preproduction-hardening-final
